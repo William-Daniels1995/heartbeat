@@ -65,7 +65,7 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/repo/heartbeat-service.git
+   git clone https://github.com/William-Daniels1995/heartbeat.git
    ```
    
 2. Navigate to the project directory:
