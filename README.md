@@ -70,7 +70,7 @@ To set up the project locally:
    
 2. Navigate to the project directory:
    ```bash
-   cd heartbeat-service
+   cd heartbeat
    ```
    
 3. Install dependencies:
