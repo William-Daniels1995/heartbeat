@@ -93,7 +93,7 @@ To set up the project locally:
   - **Default**: 3000 (if unspecified)
 
 - **NODE_ENV**  
-  Specifies the port on which the application will run.  
+  Specifies the environment the project is running.  
   - **Example**: `production`
   - **Default**: development (if unspecified)
 
